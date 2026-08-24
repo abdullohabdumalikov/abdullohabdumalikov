@@ -2,7 +2,7 @@
 
 <!-- ==================== HEADER ==================== -->
 
-<a href="https://github.com/abdullohabdumalikov">
+<a href="https://github.com/abdullohabdumalikov"> 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=240&section=header&text=Abdulloh%20Abdumalikov&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%E2%80%A2%20AI%20Enthusiast%20%E2%80%A2%20Builder&descAlignY=58&descSize=18" width="100%" />
 </a>
 
