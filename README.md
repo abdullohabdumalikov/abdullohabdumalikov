@@ -1,36 +1,38 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
+<!-- ==================== HEADER ==================== -->
 
-<a href="https://github.com/abdullohabdumalikov05">
+<a href="https://github.com/abdullohabdumalikov">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=240&section=header&text=Abdulloh%20Abdumalikov&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%E2%80%A2%20AI%20Enthusiast%20%E2%80%A2%20Builder&descAlignY=58&descSize=18" width="100%" />
 </a>
 
-<!-- Typing Animation -->
+<!-- ==================== TYPING ==================== -->
 
-<a href="https://github.com/abdullohabdumalikov05">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=720&lines=Hi+there%2C+I'm+Abdulloh+%F0%9F%91%8B;Frontend+Developer+%26+AI+Enthusiast;React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Tailwind;Building+modern+web+applications+%F0%9F%9A%80;Always+learning+%26+building+something+new+%F0%9F%94%A5" alt="Typing SVG" />
+<a href="https://github.com/abdullohabdumalikov">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=720&lines=Hi+there%2C+I'm+Abdulloh+%F0%9F%91%8B;Frontend+Developer+%26+AI+Enthusiast;React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript;Building+modern+web+applications+%F0%9F%9A%80;Always+learning+%26+building+%F0%9F%94%A5" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Profile Badges -->
+<!-- ==================== BADGES ==================== -->
 
-<a href="https://github.com/abdullohabdumalikov05">
-  <img src="https://komarev.com/ghpvc/?username=abdullohabdumalikov05&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="Profile Views" />
+<a href="https://github.com/abdullohabdumalikov">
+  <img src="https://komarev.com/ghpvc/?username=abdullohabdumalikov&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="Profile Views" />
 </a>
 
-<a href="https://github.com/abdullohabdumalikov05?tab=followers">
-  <img src="https://img.shields.io/github/followers/abdullohabdumalikov05?label=Followers&style=for-the-badge&color=00d9ff&labelColor=000" alt="Followers" />
+<a href="https://github.com/abdullohabdumalikov?tab=followers">
+  <img src="https://img.shields.io/github/followers/abdullohabdumalikov?label=Followers&style=for-the-badge&color=00d9ff&labelColor=000" alt="Followers" />
 </a>
 
-<img src="https://img.shields.io/badge/Status-Building-00ff88?style=for-the-badge&labelColor=000" alt="Status" />
+<img src="https://img.shields.io/badge/Focus-Frontend%20%26%20AI-8A2BE2?style=for-the-badge&labelColor=000" alt="Focus" />
 
-<img src="https://img.shields.io/badge/Focus-Frontend%20%26%20AI-blueviolet?style=for-the-badge&labelColor=000" alt="Focus" />
+<img src="https://img.shields.io/badge/Projects-30%2B-00ff88?style=for-the-badge&labelColor=000" alt="Projects" />
 
 </div>
 
 <br/>
+
+<!-- ==================== ABOUT ME ==================== -->
 
 ## 👋 About Me
 
@@ -41,21 +43,13 @@ const abdulloh = {
 
   experience: "3+ years learning & building",
 
-  focus: [
-    "🌐 Modern Web Applications",
-    "⚛️ React & Next.js",
-    "🟦 TypeScript",
-    "🎨 UI/UX & Figma",
-    "🤖 AI-powered Applications"
-  ],
+  projects: "30+",
 
-  frontend: [
-    "HTML",
-    "CSS",
-    "JavaScript",
-    "TypeScript",
+  mainStack: [
     "React",
     "Next.js",
+    "TypeScript",
+    "JavaScript",
     "Tailwind CSS"
   ],
 
@@ -65,14 +59,13 @@ const abdulloh = {
     "Firebase"
   ],
 
-  tools: [
-    "Git",
-    "GitHub",
-    "Figma",
-    "VS Code"
+  interests: [
+    "🤖 Artificial Intelligence",
+    "🎨 UI/UX",
+    "🌐 Modern Web Development",
+    "🚀 Building Products",
+    "📚 Continuous Learning"
   ],
-
-  projects: "30+",
 
   motto: "Learn. Build. Improve. 🚀"
 };
@@ -80,60 +73,66 @@ const abdulloh = {
 
 <br/>
 
+<!-- ==================== WHAT I DO ==================== -->
+
 ## 🚀 What I Do
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
+<tr>
+
+<td width="50%" valign="top">
 
 ### 💻 Frontend Development
 
-* Modern responsive websites
-* React applications
-* Next.js applications
-* TypeScript projects
-* Admin dashboards
-* REST API integration
-* Authentication systems
-* Modern UI/UX implementation
+* ⚛️ React applications
+* ▲ Next.js applications
+* 🟦 TypeScript projects
+* 🎨 Modern UI/UX
+* 📱 Responsive websites
+* ⚡ REST API integration
+* 🔐 Authentication systems
+* 📊 Admin dashboards
 
-    </td>
+</td>
 
-    <td width="50%" valign="top">
+<td width="50%" valign="top">
 
-### 🤖 AI & Building
+### 🤖 AI & Development
 
-* AI-powered web applications
-* AI tools & automation
-* Working with AI APIs
-* Exploring modern AI technologies
-* Building useful products
-* Turning ideas into real projects
+* 🤖 AI-powered applications
+* 🧠 AI-assisted development
+* ⚙️ Automation
+* 🔌 AI API integrations
+* 💡 Turning ideas into products
+* 🚀 Experimenting with new technologies
+* 📚 Constantly learning
 
-    </td>
-  </tr>
+</td>
 
+</tr>
 </table>
 
 <br/>
+
+<!-- ==================== TECH STACK ==================== -->
 
 ## 🛠️ Tech Arsenal
 
 <div align="center">
 
-### Frontend
+### ⚛️ Frontend
 
 <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,tailwind" />
 
-### Backend & Database
+### ⚙️ Backend & Services
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,firebase" />
 
-### Tools & Design
+### 🎨 Tools & Design
 
 <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,npm" />
 
-### Other
+### 📦 Other Technologies
 
 <img src="https://skillicons.dev/icons?i=python,redux,vite" />
 
@@ -146,42 +145,45 @@ const abdulloh = {
 
 <br/>
 
-| Category                        | Technologies                        |
-| ------------------------------- | ----------------------------------- |
-| **Frontend**                    | HTML5, CSS3, JavaScript, TypeScript |
-| **Frameworks**                  | React.js, Next.js                   |
-| **Styling**                     | Tailwind CSS                        |
-| **State Management**            | Zustand, Redux Toolkit              |
-| **Routing**                     | React Router DOM                    |
-| **Forms**                       | React Hook Form                     |
-| **Animation**                   | Framer Motion                       |
-| **HTTP**                        | Axios, Fetch API                    |
-| **Backend**                     | Node.js, Express.js                 |
-| **Database / Backend Services** | Firebase, JSON Server               |
-| **Design**                      | Figma, UI/UX                        |
-| **Tools**                       | Git, GitHub, VS Code, npm           |
-| **AI**                          | AI APIs, AI-assisted development    |
+| Category             | Technologies                                |
+| -------------------- | ------------------------------------------- |
+| **Languages**        | JavaScript, TypeScript, HTML5, CSS3, Python |
+| **Frontend**         | React.js, Next.js, React Native             |
+| **Styling**          | Tailwind CSS, CSS, Responsive Design        |
+| **State Management** | Zustand, Redux, Redux Toolkit               |
+| **Routing**          | React Router DOM                            |
+| **Forms**            | React Hook Form                             |
+| **Animation**        | Framer Motion                               |
+| **HTTP / API**       | Axios, Fetch API, REST API                  |
+| **Backend**          | Node.js, Express.js                         |
+| **Backend Services** | Firebase, JSON Server                       |
+| **Database**         | Firebase / JSON-based APIs                  |
+| **Design**           | Figma, UI/UX                                |
+| **Tools**            | Git, GitHub, VS Code, npm                   |
+| **AI**               | AI APIs, AI-assisted development            |
 
 </details>
 
 <br/>
 
+<!-- ==================== PROJECTS ==================== -->
+
 ## 💎 Featured Projects
 
 <table>
-  <tr>
+<tr>
 
 <td width="50%" valign="top">
 
 ### 📊 Admin Dashboard
 
-Modern administration system with employee management, finance, logs, announcements, tasks and complaints.
+A modern administration system with multiple management modules.
 
-**Tech:**
+**Tech Stack**
 
 `React` `TypeScript` `Tailwind CSS` `Axios` `Ant Design`
 
-**Features:**
+**Features**
 
 * 👨‍💼 Employee Management
 * 💰 Finance Management
@@ -190,45 +192,47 @@ Modern administration system with employee management, finance, logs, announceme
 * 📝 Logs
 * ⚠️ Complaints
 * 📊 Statistics
+* 🔎 Search & Filters
 
 </td>
 
 <td width="50%" valign="top">
 
-### 💰 Finance Management
+### 💰 Employee Finance
 
-Employee finance management system with salaries, KPI, bonuses, penalties and payment statuses.
+A finance management system for employee salaries and payments.
 
-**Tech:**
+**Tech Stack**
 
 `React` `TypeScript` `Axios` `Ant Design`
 
-**Features:**
+**Features**
 
-* Salary management
-* KPI calculations
-* Bonuses & penalties
-* Payment statuses
-* Pagination
-* Search & filters
-* Employee/finance data merging
+* 💵 Base Salary
+* 📈 KPI
+* 🎁 Bonuses
+* ⚠️ Penalties
+* 💳 Payment Status
+* 📅 Monthly Finance
+* 🔎 Search
+* 📄 Pagination
 
 </td>
 
-  </tr>
+</tr>
 
-  <tr>
+<tr>
 
 <td width="50%" valign="top">
 
 ### 🎮 JavaScript Games
 
-A collection of interactive browser games built while learning and improving JavaScript.
+A collection of games created while learning JavaScript.
 
-**Projects:**
+**Games**
 
 * 🐍 Snake
-* 🧠 Memory Game
+* 🧠 Memory Card
 * 🧱 Block Blast
 * ❌ Tic Tac Toe
 * 🔤 Hangman
@@ -241,96 +245,101 @@ A collection of interactive browser games built while learning and improving Jav
 
 ### 🌐 Modern Web Projects
 
-Modern responsive websites and UI projects created with different technologies.
+Responsive websites and modern UI projects.
 
-**Stack:**
+**Stack**
 
 `HTML` `CSS` `JavaScript` `React` `Next.js` `Tailwind`
 
-**Focus:**
+**Focus**
 
-* Responsive Design
-* Modern UI
-* Animations
-* Clean Components
-* API Integration
-* UX
+* 🎨 Modern UI
+* 📱 Responsive Design
+* ✨ Animations
+* 🧩 Reusable Components
+* 🔌 API Integration
+* 🚀 Performance
 
 </td>
 
-  </tr>
+</tr>
 </table>
 
 <br/>
+
+<!-- ==================== CURRENTLY LEARNING ==================== -->
 
 ## 🧠 Currently Learning
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+
 <img src="https://img.shields.io/badge/Backend-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+
 <img src="https://img.shields.io/badge/AI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" />
 
 </div>
 
 <br/>
 
+<!-- ==================== GITHUB STATS ==================== -->
+
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<a href="https://github.com/abdullohabdumalikov05">
+<a href="https://github.com/abdullohabdumalikov">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=abdullohabdumalikov05&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&border_color=30363d&include_all_commits=true&count_private=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=abdullohabdumalikov&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&border_color=30363d&include_all_commits=true&count_private=true" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullohabdumalikov05&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&border_color=30363d" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullohabdumalikov&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&border_color=30363d" />
 
 </a>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=abdullohabdumalikov05&theme=tokyonight&background=0D1117&border=30363d&stroke=30363d&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
+<img src="https://streak-stats.demolab.com?user=abdullohabdumalikov&theme=tokyonight&background=0D1117&border=30363d&stroke=30363d&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
 
 </div>
 
 <br/>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy-winning.vercel.app/?username=abdullohabdumalikov05&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
-
-</div>
-
-<br/>
+<!-- ==================== CONTRIBUTION GRAPH ==================== -->
 
 ## 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullohabdumalikov05&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullohabdumalikov&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" />
 
 </div>
 
 <br/>
 
-## 🎯 My Goals
+<!-- ==================== GOALS ==================== -->
+
+## 🎯 Goals
 
 ```text
 🚀 Build real-world products
 🤖 Create AI-powered applications
-🧠 Become stronger in Backend development
 ⚛️ Master React & Next.js
+🟦 Become stronger with TypeScript
+⚙️ Improve Backend development
+🎨 Create better UI/UX
 💼 Work on professional projects
-🌎 Build products for real users
+🌎 Build products used by real users
 🔥 Never stop learning
 ```
 
 <br/>
 
-## 💬 My Developer Philosophy
+<!-- ==================== PHILOSOPHY ==================== -->
+
+## 💡 Developer Philosophy
 
 <div align="center">
 
@@ -340,6 +349,8 @@ Modern responsive websites and UI projects created with different technologies.
 
 <br/>
 
+<!-- ==================== CONNECT ==================== -->
+
 ## 🔗 Connect With Me
 
 <div align="center">
@@ -348,13 +359,15 @@ Modern responsive websites and UI projects created with different technologies.
   <img src="https://img.shields.io/badge/Telegram-@abdullohabdumalikov05-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 
-<a href="https://github.com/abdullohabdumalikov05">
-  <img src="https://img.shields.io/badge/GitHub-@abdullohabdumalikov05-181717?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://github.com/abdullohabdumalikov">
+  <img src="https://img.shields.io/badge/GitHub-@abdullohabdumalikov-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
 
 <br/>
+
+<!-- ==================== FOOTER ==================== -->
 
 <div align="center">
 
